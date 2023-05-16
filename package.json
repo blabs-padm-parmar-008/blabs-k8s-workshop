@@ -1,0 +1,23 @@
+{
+  "name": "blabs-k8s-workshop",
+  "version": "1.0.0",
+  "description": "Kubernates workshop",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/blabs-padm-parmar-008/blabs-k8s-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blabs-padm-parmar-008/blabs-k8s-workshop/issues"
+  },
+  "homepage": "https://github.com/blabs-padm-parmar-008/blabs-k8s-workshop#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
