@@ -23,3 +23,7 @@
     eval $(minikube docker-env)
     ```
 
+3. Resources used
+    ```
+    https://levelup.gitconnected.com/two-easy-ways-to-use-local-docker-images-in-minikube-cd4dcb1a5379 
+    ```
